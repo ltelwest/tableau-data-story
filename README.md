@@ -1,12 +1,4 @@
 # Tableau Data Story
-
-## About the dataset  
-
-## Links to datastories
-story_v1 = https://public.tableau.com/profile/lennart.telwest#!/vizhome/TheTitanicSinkingv1/Overview?publish=yes
-story_v2 = https://public.tableau.com/profile/lennart.telwest#!/vizhome/TheTitanicSinkingv2/Overview?publish=yes
-story_final = https://public.tableau.com/profile/lennart.telwest#!/vizhome/TheTitanicSinking/Overview?publish=yes
-
 ## Summary
 The visualisation is a brief walk through the tragic sinking of the Titanic more
 than 100 years ago.
@@ -15,6 +7,11 @@ than 20% of all men on board survived. For women travelling in the first or seco
 class that rate was even higher.
 Also children had a higher rate of survival suggesting that "women and children
 first" held true on board of Titanic.
+
+## Links to datastories
+story_v1 = https://public.tableau.com/profile/lennart.telwest#!/vizhome/TheTitanicSinkingv1/Overview?publish=yes
+story_v2 = https://public.tableau.com/profile/lennart.telwest#!/vizhome/TheTitanicSinkingv2/Overview?publish=yes
+story_final = https://public.tableau.com/profile/lennart.telwest#!/vizhome/TheTitanicSinking/Overview?publish=yes
 
 ## Design
 The main objective was to show the higher chance of survival that women on board
@@ -46,3 +43,4 @@ Titanic Sinking - https://en.wikipedia.org/wiki/RMS_Titanic#Sinking
 Data Visualisation Playbook - https://d17h27t6h515a5.cloudfront.net/topher/2017/May/5919424e_03.datavisualizationplaybook/03.datavisualizationplaybook.pdf
 Build a Pie Chart - http://onlinehelp.tableau.com/current/pro/desktop/en-us/buildexamples_pie.html
 How to Show Filters in Dashboard? - https://community.tableau.com/thread/147638
+Visualisation Guide - http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html
