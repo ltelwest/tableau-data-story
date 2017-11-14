@@ -14,10 +14,24 @@ story_v2 = https://public.tableau.com/profile/lennart.telwest#!/vizhome/TheTitan
 story_final = https://public.tableau.com/profile/lennart.telwest#!/vizhome/TheTitanicSinking/Overview?publish=yes
 
 ## Design
-The main objective was to show the higher chance of survival that women on board
-of the Titanic had. This is why most graphs and visualisations are split by gender.
-The feedback that the visual encoding of gender was not consistent as well as not always
-in place was very important to create a red line in the story.
+
+The first story should give an introduction to the dataset, so I chose the packed
+bubbles to show the unequal distribution between men and women as well as first
+and 3rd class. I chose the two bar charts to highlight the distribution of the
+most influential features: gender & class. This is also the reason for them being
+the two filters to the first story point.
+In the second part I chose the packed bubbles, bar chart and histogram to show
+the unequal distribution of embarkment and the distribution across age,
+gender and city of embarkment. Also I wanted to add some consistency across the
+whole story to make reading through the story easier.
+In the final part I wanted to show the impact of each analysed feature to the
+chances of survival by using stacked bars for gender and class to show the share
+of each on the total group of survivors as well as a histogram with binned ages
+to be able to visualise many data points in a readable way.
+Anyhow the main objective was to show the higher chance of survival that women
+on board of the Titanic. This is why I changed most graphs and visualisations
+to be split by gender. Given the feedback that the visual encoding of gender was
+not consistent as well as not always in place thus missing a red line in the story.
 Also the first version that included different bar charts which showed that gender
 had the highest impact did not communicate it as clearly as I wished. So I decided
 to go for a scatterplot that shows the impact of the class and gender on the chance
